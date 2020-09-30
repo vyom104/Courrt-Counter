@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:padding="4dp"
+        android:padding="5dp"
         android:text="Team A" />
 
     <TextView
@@ -36,7 +36,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="8dp"
+        android:layout_margin="7dp"
         android:onClick="addOneForTeamA"
         android:text="Free throw" />
 </LinearLayout>
